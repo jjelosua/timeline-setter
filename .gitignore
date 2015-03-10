@@ -10,3 +10,5 @@ tbi.csv
 timeline.html
 public/assets
 *.gem
+.ruby-gemset
+.ruby-version
