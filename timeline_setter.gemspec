@@ -5,10 +5,10 @@
 
 Gem::Specification.new do |s|
   s.name = "timeline_setter"
-  s.version = "0.3.2"
+  s.version = "0.3.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Al Shaw", "Jeff Larson"]
+  s.authors = ["Al Shaw", "Jeff Larson", "Juan Elosua"]
   s.date = "2013-02-21"
   s.description = "TimelineSetter is a tool to create HTML timelines from spreadsheets of events."
   s.email = "almshaw@gmail.com"
@@ -71,6 +71,17 @@ Gem::Specification.new do |s|
     "public/javascripts/vendor/underscore-min.js",
     "public/javascripts/vendor/underscore.js",
     "public/stylesheets/timeline-setter.css",
+    "public/stylesheets/fonts.css",
+    "public/stylesheets/fonts/Bitter-Bold-webfont.eot",
+    "public/stylesheets/fonts/Bitter-Bold-webfont.svg",
+    "public/stylesheets/fonts/Bitter-Bold-webfont.ttf",
+    "public/stylesheets/fonts/Bitter-Bold-webfont.woff",
+    "public/stylesheets/fonts/Bitter-Bold-webfont.woff2",
+    "public/stylesheets/fonts/Bitter-Regular-webfont.eot",
+    "public/stylesheets/fonts/Bitter-Regular-webfont.svg",
+    "public/stylesheets/fonts/Bitter-Regular-webfont.ttf",
+    "public/stylesheets/fonts/Bitter-Regular-webfont.woff",
+    "public/stylesheets/fonts/Bitter-Regular-webfont.woff2",
     "spec/spec_helper.rb",
     "spec/test_data.csv",
     "spec/timeline-debug.html",
