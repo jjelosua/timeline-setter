@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.version = "0.3.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Al Shaw", "Jeff Larson", "Juan Elosua"]
+  s.authors = ["Al Shaw", "Jeff Larson"]
   s.date = "2013-02-21"
   s.description = "TimelineSetter is a tool to create HTML timelines from spreadsheets of events."
   s.email = "almshaw@gmail.com"
