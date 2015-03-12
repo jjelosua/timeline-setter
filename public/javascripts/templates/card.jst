@@ -7,15 +7,13 @@
           <%= card.get("html") %>
         </div>
       <% } %>
+      <div class="TS-item_year">
+        <span class="TS-item_year_text"><%= (card.get("display_date") || "").length > 0 ? card.get("display_date") : card.get("date") %></span>
+      </div>
       <%= card.get("description") %>
     </div>
       <% if (!_.isEmpty(card.get("link"))){ %>
           <a class="TS-read_btn" target="_blank" href="<%= card.get("link") %>">Leer más</a>
       <% } %>
-
-    <div class="TS-item_year">
-      <span class="TS-item_year_text"><%= (card.get("display_date") || "").length > 0 ? card.get("display_date") : card.get("date") %></span>
-      <div class="TS-permalink">&#8734;</div>
-    </div>
   </div>
 </div>
