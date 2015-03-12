@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'bitterregular';
+    src: url('fonts/Bitter-Regular-webfont.eot');
+    src: url('fonts/Bitter-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bitter-Regular-webfont.woff2') format('woff2'),
+         url('fonts/Bitter-Regular-webfont.woff') format('woff'),
+         url('fonts/Bitter-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Bitter-Regular-webfont.svg#fonts/bitterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'bitterbold';
+    src: url('fonts/Bitter-Bold-webfont.eot');
+    src: url('fonts/Bitter-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bitter-Bold-webfont.woff2') format('woff2'),
+         url('fonts/Bitter-Bold-webfont.woff') format('woff'),
+         url('fonts/Bitter-Bold-webfont.ttf') format('truetype'),
+         url('fonts/Bitter-Bold-webfont.svg#fonts/bitterbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*@font-face {
+    font-family: 'bitterbold_italic';
+    src: url('fonts/Bitter-BoldItalic-webfont.eot');
+    src: url('fonts/Bitter-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bitter-BoldItalic-webfont.woff2') format('woff2'),
+         url('fonts/Bitter-BoldItalic-webfont.woff') format('woff'),
+         url('fonts/Bitter-BoldItalic-webfont.ttf') format('truetype'),
+         url('fonts/Bitter-BoldItalic-webfont.svg#fonts/bitterbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bitteritalic';
+    src: url('fonts/Bitter-Italic-webfont.eot');
+    src: url('fonts/Bitter-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Bitter-Italic-webfont.woff2') format('woff2'),
+         url('fonts/Bitter-Italic-webfont.woff') format('woff'),
+         url('fonts/Bitter-Italic-webfont.ttf') format('truetype'),
+         url('fonts/Bitter-Italic-webfont.svg#fonts/bitteritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}*/
+
