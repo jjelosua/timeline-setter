@@ -7,6 +7,11 @@
           <%= card.get("html") %>
         </div>
       <% } %>
+      <% if (!_.isEmpty(card.get("video_caption"))){ %>
+        <div class="TS-item_user_video_caption">
+          <%= card.get("video_caption") %>
+        </div>
+      <% } %>
       <div class="TS-item_year">
         <span class="TS-item_year_text"><%= (card.get("display_date") || "").length > 0 ? card.get("display_date") : card.get("date") %></span>
       </div>
