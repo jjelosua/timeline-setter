@@ -358,35 +358,35 @@ h1{
 
 /* 1 */
 .TS-notch_color_1,.TS-series_legend_swatch_1 {
-  background-color: #185C86 !important;
+  background-color: #1F8FBC !important;
 }
 .TS-css_arrow_color_1 {
-  border-bottom-color: #185C86 !important;
+  border-bottom-color: #1F8FBC !important;
 }
 .TS-item_color_1 {
-  border-top:1px solid #185C86 !important;
+  border-top:1px solid #1F8FBC!important;
 }
 
 /* 2 */
 .TS-notch_color_2,.TS-series_legend_swatch_2 {
-  background-color: #1F8FBC !important;
+  background-color: #73A533 !important;
 }
 .TS-css_arrow_color_2 {
-  border-bottom-color: #1F8FBC !important;
+  border-bottom-color: #73A533 !important;
 }
 .TS-item_color_2 {
-  border-top:1px solid #1F8FBC !important;
+  border-top:1px solid #73A533 !important;
 }
 
 /* 3 */
 .TS-notch_color_3,.TS-series_legend_swatch_3 {
-  background-color: #73A533 !important;
+  background-color: #185C86 !important;
 }
 .TS-css_arrow_color_3 {
-  border-bottom-color: #73A533 !important;
+  border-bottom-color: #185C86!important;
 }
 .TS-item_color_3 {
-  border-top:1px solid #73A533 !important;
+  border-top:1px solid #185C86!important;
 }
 
 /* 4 */
